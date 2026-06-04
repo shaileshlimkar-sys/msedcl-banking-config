@@ -5,7 +5,7 @@ build:
 customer:
   message: "WELCOME TO MSEDCL BANK CUSTOMER RELATED REST API - UAT"
   contactDetails:
-    name: "Sharad"
+    name: "Sharad Patil"
     email: "sharad@msedcl.com"
   onCallSupport:
     - 1234567890
