@@ -1,0 +1,13 @@
+
+#Custom Properties -- used in the application
+build:
+  version: "1.0"
+
+transaction:
+  message: "WELCOME TO MSEDCL BANK CUSTOMER RELATED REST API"
+  contactDetails:
+    name: "Shailesh"
+    email: "shailesh@msedcl.com"
+  onCallSupport:
+    - 1234567890
+    - 9876543210
