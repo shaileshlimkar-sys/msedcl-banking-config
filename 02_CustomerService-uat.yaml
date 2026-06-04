@@ -3,7 +3,7 @@ build:
   version: "1.0"
 
 customer:
-  message: "WELCOME TO MSEDCL BANK CUSTOMER RELATED REST API - UATTTTTTTTTTT"
+  message: "WELCOME TO MSEDCL BANK CUSTOMER RELATED REST API - UATTTT    TTTTTTT"
   contactDetails:
     name: "Sharad Patil"
     email: "sharad@msedcl.com"
