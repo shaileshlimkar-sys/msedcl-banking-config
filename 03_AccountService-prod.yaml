@@ -4,9 +4,9 @@ build:
   version: "1.0"
 
 account:
-  message: "WELCOME TO MSEDCL BANK CUSTOMER RELATED REST API - PRODUCTION"
+  message: "WELCOME TO MSEDCL BANK CUSTOMER RELATED REST API - PRODUCTION NEXT"
   contactDetails:
-    name: "Pramod"
+    name: "Pramod Pawar"
     email: "pramod@msedcl.com"
   onCallSupport:
     - 1234567890
